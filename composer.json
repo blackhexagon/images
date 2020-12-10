@@ -10,18 +10,18 @@
 		"storage"
 	],
 	"require": {
-		"php": "^7.2",
-		"nette/http": "^3.0",
-		"nette/utils": "^3.0",
-		"tracy/tracy": "^2.6",
-		"nette/finder": "^2.5"
+		"php": "^7.4",
+		"nette/http": "^v3.0.5",
+		"nette/utils": "^v3.0.4",
+		"tracy/tracy": "^v2.7.6",
+		"nette/finder": "^v2.5.1"
 	},
 	"require-dev": {
-		"nette/di": "^3.0",
-		"latte/latte": "^2.5",
+		"nette/di": "^v3.0.6",
+		"latte/latte": "^v2.9.1",
 		"codeception/codeception": "^2.4",
-		"nette/forms": "^3.0",
-		"nette/application": "^3.0",
+		"nette/forms": "^v3.0.7",
+		"nette/application": "^3.0.7",
 		"webchemistry/testing-helpers": "~2.0",
 		"doctrine/orm": "^2.6",
 		"phpstan/phpstan": "^0.11",
